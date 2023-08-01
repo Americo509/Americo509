@@ -20,5 +20,11 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Americo079&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Americo079&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+   
+##
 
+ <a href="https://www.linkedin.com/in/gustavoamericorosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank">
+ </a>
+
+ 
   ![Snake animation](https://github.com/Americo509/Americo509/blob/main/snake.svg)
