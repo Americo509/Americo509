@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
  <div> 
   <a href="https://github.com/Americo509">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBussola&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBussola&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Americo079&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Americo079&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
  ![Snake animation](https://github.com/ThiagoBussola/ThiagoBussola/blob/output/github-contribution-grid-snake.svg)
